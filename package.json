@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jpope19/isso-outlook/issues"
   },
-  "homepage": "https://github.com/jpope19/isso-outlook#readme"
+  "homepage": "https://github.com/jpope19/isso-outlook#readme",
+  "dependencies": {
+    "simple-oauth2": "^1.1.0"
+  }
 }
