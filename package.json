@@ -1,0 +1,19 @@
+{
+  "name": "isso-outlook",
+  "version": "1.0.0",
+  "description": "visitor app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpope19/isso-outlook.git"
+  },
+  "author": "Jeffrey Pope",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jpope19/isso-outlook/issues"
+  },
+  "homepage": "https://github.com/jpope19/isso-outlook#readme"
+}
